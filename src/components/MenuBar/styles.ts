@@ -53,6 +53,7 @@ import {
       > span {
         display: inline;
         margin-left: 19px;
+
         font-weight: bold;
         font-size: 19px;
       }
