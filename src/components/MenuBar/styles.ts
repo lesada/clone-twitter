@@ -58,7 +58,7 @@ import {
       }
       padding-right: 15px;
     }
-    padding: 8.25px 0;
+    padding: 8.25px 12px;
     outline: 0;
     & + button {
       margin-top: 16.5px;
