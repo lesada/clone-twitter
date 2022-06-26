@@ -12,6 +12,10 @@ import {
   EmailIcon,
   FavoriteIcon,
   ProfileIcon,
+  Botside,
+  Avatar,
+  ProfileData,
+  ExitIcon
 } from './styles';
 
 const MenuBar: React.FC = () => {
@@ -48,7 +52,16 @@ const MenuBar: React.FC = () => {
           <span>Tweetar</span>
         </Button>
       </Topside>
-      {/* <Botside></Botside> */}
+      <Botside>
+        <Avatar/>
+        
+        <ProfileData>
+          <strong>Lauren Leslie</strong>
+          <span>@lesada</span>
+        </ProfileData>
+
+        <ExitIcon/>
+      </Botside>
     </Container>
   );
 };
