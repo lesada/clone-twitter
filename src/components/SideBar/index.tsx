@@ -1,4 +1,5 @@
 import React from 'react';
+import StickyBox from 'react-sticky-box';
 
 import List from '../List';
 import FollowSuggestion from '../FollowSuggestion';
@@ -20,6 +21,7 @@ const SideBar: React.FC = () => {
         <SearchIcon />
       </SearchWrapper>
 
+      <StickyBox>
       <Body>
         <List
           title="Talvez você curta"
@@ -62,6 +64,7 @@ const SideBar: React.FC = () => {
           ]}
         />
       </Body>
+      </StickyBox>
     </Container>
   );
 };
