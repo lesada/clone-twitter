@@ -1,8 +1,6 @@
 # Clone Twitter
 
-![image](https://user-images.githubusercontent.com/68572174/195689276-600de52e-646a-41d1-b702-67d2da5fae74.png)
-
-Inspiration-Figma: [React-Signup](https://www.figma.com/file/iplx8vxEZYMVWi2bog8bJf/React-Signup?node-id=0%3A1).
+![image](https://user-images.githubusercontent.com/68572174/195881984-b1d6c1e6-77b0-448b-85de-7bc2ea856472.png)
 
 ## 🧪 Technologies
 
